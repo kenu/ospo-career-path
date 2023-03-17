@@ -1,70 +1,63 @@
-# OSPO 101 교육 모듈
+# 👋 Welcome OSPO Career Path Repo
 
-<img src="ospo101.svg">
+OSPO Career Path is a set of vendor-neutral, open source, and free courses created by folks from the TODO / OSPO community to support training inside the organization. Each course is intended to be modularized so the content is reusable in a piecemeal fashion.
 
-OSPO 101은 오픈 소스 프로그램 오피스 관리에 대해 알아야 할 모든 것에 대한 과정입니다.
+The target audience of the OSPO Career path is intended to Open Source professionals that are in a role that manages, oversees, or guides the organization’s policies and/or contributions to open source projects. This includes:
 
-콘텐츠를 단편적으로 재사용할 수 있도록 모듈화하기 위한 것입니다.
+* Security, compliance, and licensing open source roles
+* Open Source developer relations, developer advocates, or community managers
+* Open Source project managers
+* Open Source leaders and general managers
 
-* [오픈 소스 소개](module1/README.md)
-* [오픈 소스 비즈니스 전략](module2/README.md)
-* [효과적인 오픈 소스 프로그램(OSPO) 관리](module3/README.md)
-* [오픈 소스 개발 사례](module4/README.md)
-* [오픈 소스 준수 프로그램](module5/README.md)
-* [오픈 소스 프로젝트와 효과적인 협업](module6/README.md)
-* [오픈 소스 프로젝트 만들기](module7/README.md)
+## 📖 What defines an OSPO: Definition and characteristics
 
-OSPO 101 과정 자료는 조직을 위한 본격적인 패키지 과정으로 LF 교육에서도 사용할 수 있습니다.
+### OSPO Definition
 
-https://training.linuxfoundation.org/training/open-source-management-and-strategy/
+An open source program office (OSPO) is designed to (1) be the center of competency for an organization's open source operations and structure and (2) put a strategy and set of policies on top of an organization's open source efforts. This can include setting code use, distribution, selection, auditing, and other policies, training developers, ensuring legal compliance, and promoting and building community engagement that benefits the organization strategically. See the OSPO definition hosted by the TODO Group for more information.
+OSPO Characteristics
 
-## 강의 개요
+To a certain degree, any organization calling itself an OSPO likely indicates that the organization has reached a maturity stage, gained critical mass support with its enterprise, and manifests five key characteristics:
+* Employees are tasked with fostering and nurturing OSS usage.
+* The organization has a formal policy around the use and production of OSS.
+* Executives recognize that OSS and open source more broadly are important strategic assets.
+* Significant numbers of employees are contributing code to open source projects.
+* Processes, procedures, and tools are in place to streamline and facilitate open source consumption and participation
+* See the OSPO characteristics hosted by the TODO Group for more information.
 
-* [오픈 소스 소개](module1/README.md)
-  * [오픈 소스 소개](module1/README.md#섹션-오픈-소스-소개)
-  * [오픈 소스 소프트웨어의 간략한 역사](module1/README.md#섹션-오픈-소스-소프트웨어의-짧은-역사)
-  * [오픈 소스를 사용하는 이유](module1/README.md#섹션-오픈-소스를-사용하는-이유)
 
-* [오픈 소스 비즈니스 전략](module2/README.md)
-  * [오픈 소스 비즈니스 모델 소개](module2/README.md#섹션-오픈-소스-비즈니스-모델-소개)
-  * [오픈 소스 전략 개발](module2/README.md#섹션-오픈-소스-전략-만들기)
-  * [오픈 소스 정책 개발](module2/README.md#섹션-오픈-소스-정책-개발)
-  * [오픈 소스 프로그램 오피스(OSPO) 소개](module2/README.md#섹션-오픈-소스-프로그램-오피스-소개)
+## 📈 Career Path Progression
+Courses are based on the different OSPO responsibilities established on the OSPO Mind Map. It provides key requirements that OSPO Teams or open source professionals should learn for quality implementation of an Open Source Program Office:
 
-* [효과적인 오픈 소스 프로그램(OSPO) 관리](module3/README.md)
-  * [오픈 소스 프로그램 오피스 및 조직](module3/README.md#오픈-소스-프로그램-오피스ospo-및-조직)
-  * [효과적인 오픈 소스 프로그램 오피스 구축](module3/README.md#효과적인-오픈-소스-프로그램-오피스-구축)
-  * [추가 정보 및 사례 연구](module3/README.md#추가-정보-및-사례-연구)
+|  | Description |
+| --- | --- |
+| ✅ | Courses that already exist (either at TODO or other OS communities) |
+| 🆕 | New Courses to be made |
+| 🤝 | Courses provided by other OS Communities |
 
-* [오픈 소스 개발 사례](module4/README.md)
-  * [효과적인 오픈 소스 개발 및 참여](module4/README.md#효과적인-오픈-소스-개발-및-참여)
-  * [지속적 통합 및 테스트의 역할](module4/README.md#지속적인-통합-및-테스트의-역할)
-  * [내부적으로 오픈 소스 방법론 적용](module4/README.md#내부적으로-오픈-소스-방법론-적용)
+### Beginner Courses ⭐️
 
-* [오픈 소스 준수 프로그램](module5/README.md)
-  * [오픈 소스 라이선스 및 규정 준수 기본 사항](module5/README.md#오픈-소스-라이선스-및-규정-준수-기본-사항)
-  * [효과적인 규정 준수 프로그램 구축](module5/README.md#섹션-효과적인-규정-준수-프로그램-구축)
-  * [올바른 라이선스 준수 도구 선택](module5/README.md#섹션-올바른-라이선스-준수-도구-선택)
-  * [M&A 활동 중 오픈 소스 감사의 역할](module5/README.md#섹션-ma-활동-중-오픈-소스-감사의-역할)
+* ✅ OSPO 101 Course (beginner) - TODO
+* ✅ 🤝 Introduction to OS license and compliance course (beginner) - OpenChain
+* ✅ 🤝 Developing Secure Software (beginner) - OpenSSF
+* ✅ 🤝 Software Package Data Exchange (beginner) - SPDX
 
-* [오픈 소스 프로젝트와 효과적인 협업](module6/README.md)
-  * [업스트림 오픈 소스 프로젝트 이해하기](module6/README.md#업스트림-오픈-소스-프로젝트-이해)
-  * [효과적인 업스트림 기여 전략](module6/README.md#섹션-효과적인-업스트림-기여-전략)
-  * [업스트림 개발 사례](module6/README.md#섹션-업스트림-개발-관행)
+### Intermediate Courses ⭐️⭐️
 
-* [오픈 소스 프로젝트 만들기](module7/README.md)
-  * [오픈 소스 프로젝트 생성 개요](module7/README.md#오픈-소스-프로젝트-생성-개요)
-  * [새로운 프로젝트 준비](module7/README.md#섹션-새로운-프로젝트-준비)
-  * [성공적인 프로젝트 시작 및 유지](module7/README.md#섹션-성공적인-프로젝트-시작-및-유지)
+Continuation fo OSPO 101 modules:
 
-## 감사의 말
+* [🆕 Course] Effective OSPO policy & processes implementation for **Users**
+* [🆕 Course] Effective OSPO policy & processes implementation for **Contributors**
+* [🆕 Course] Effective OSPO policy & processes implementation for **Partners**
 
-과정의 초기 콘텐츠를 시드하는데 도움을 준 [Guy Martin](https://twitter.com/guyma)에 감사드립니다. 코스는 [Chris Aniszczyk](https://twitter.com/cra) 및 Greg Back의 기여를 포함하여 TODO 그룹 커뮤니티에 의해 친숙한 마크다운 형식으로 변환되었습니다.
+### Advanced Courses ⭐️⭐️⭐️
 
-## 라이선스
+TBT
 
-모든 코드는 Apache 2.0에서 제공되며 설명서는 크리에이티브 커먼즈 저작자표시 4.0 국제 (CC BY 4.0) 라이선스: http://creativecommons.org/licenses/by/4.0/ 에 따라 제공됩니다.
 
-## 이 문서의 출처
+## 🙋‍♀️ Contribute
 
-이 Repository의 문서는 [리눅스 재단(Linux Foundation)](https://www.linuxfoundation.org/)의 [Todo Group](https://todogroup.org/)에서 만든 것으로 원본(영어) 문서는 https://github.com/todogroup/ospo101 에서 보실 수 있습니다.
+Please open a new issue or PR to contribute to this repo adn help us improve the OSPO Career Path content!
+
+## 👩‍⚖️ License
+
+All code is offered under the Apache 2.0 and documentation is offered under the Creative Commons Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0/
