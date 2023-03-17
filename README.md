@@ -1,63 +1,63 @@
-# 👋 Welcome OSPO Career Path Repo
+# 👋 OSPO 커리어 패스 리포에 오신 것을 환영합니다.
 
-OSPO Career Path is a set of vendor-neutral, open source, and free courses created by folks from the TODO / OSPO community to support training inside the organization. Each course is intended to be modularized so the content is reusable in a piecemeal fashion.
+OSPO 커리어 패스는 조직 내부의 교육을 지원하기 위해 TODO/OSPO 커뮤니티의 사람들이 만든 공급업체 중립적인 오픈 소스 무료 과정입니다. 각 과정은 모듈화되어 있어 콘텐츠가 단편적인 방식으로 재사용될 수 있도록 설계되었습니다.
 
-The target audience of the OSPO Career path is intended to Open Source professionals that are in a role that manages, oversees, or guides the organization’s policies and/or contributions to open source projects. This includes:
+OSPO 커리어 패스의 대상은 조직의 정책 및/또는 오픈 소스 프로젝트에 대한 기여를 관리, 감독 또는 안내하는 역할을 하는 오픈 소스 전문가를 대상으로 합니다. 여기에는 다음이 포함됩니다:
 
-* Security, compliance, and licensing open source roles
-* Open Source developer relations, developer advocates, or community managers
-* Open Source project managers
-* Open Source leaders and general managers
+- 보안, 규정 준수 및 오픈 소스 역할 라이선스
+- 오픈 소스 개발자 관계, 개발자 옹호자 또는 커뮤니티 관리자
+- 오픈 소스 프로젝트 관리자
+- 오픈 소스 리더 및 총괄 관리자
 
-## 📖 What defines an OSPO: Definition and characteristics
+## 📖 OSPO를 정의하는 요소: 정의 및 특성
 
-### OSPO Definition
+### OSPO 정의
 
-An open source program office (OSPO) is designed to (1) be the center of competency for an organization's open source operations and structure and (2) put a strategy and set of policies on top of an organization's open source efforts. This can include setting code use, distribution, selection, auditing, and other policies, training developers, ensuring legal compliance, and promoting and building community engagement that benefits the organization strategically. See the OSPO definition hosted by the TODO Group for more information.
-OSPO Characteristics
+오픈 소스 프로그램 오피스(OSPO)는 (1) 조직의 오픈 소스 운영 및 구조에 대한 역량의 중심이 되고, (2) 조직의 오픈 소스 노력에 전략과 일련의 정책을 적용하기 위해 설계되었습니다. 여기에는 코드 사용, 배포, 선택, 감사 및 기타 정책 설정, 개발자 교육, 법률 준수 보장, 조직에 전략적으로 도움이 되는 커뮤니티 참여 촉진 및 구축 등이 포함될 수 있습니다. 자세한 내용은 TODO 그룹에서 주최하는 OSPO 정의를 참조하세요.
+OSPO의 특징
 
-To a certain degree, any organization calling itself an OSPO likely indicates that the organization has reached a maturity stage, gained critical mass support with its enterprise, and manifests five key characteristics:
-* Employees are tasked with fostering and nurturing OSS usage.
-* The organization has a formal policy around the use and production of OSS.
-* Executives recognize that OSS and open source more broadly are important strategic assets.
-* Significant numbers of employees are contributing code to open source projects.
-* Processes, procedures, and tools are in place to streamline and facilitate open source consumption and participation
-* See the OSPO characteristics hosted by the TODO Group for more information.
+스스로를 OSPO라고 부르는 조직은 어느 정도 성숙 단계에 이르렀고, 기업으로부터 많은 지지를 받고 있으며, 5가지 주요 특징을 가지고 있다는 것을 의미합니다:
 
+- 직원들이 OSS 사용을 촉진하고 육성하는 임무를 맡고 있습니다.
+- 조직에 OSS 사용 및 생산에 관한 공식적인 정책이 있습니다.
+- 경영진이 OSS와 오픈 소스를 중요한 전략적 자산으로 인식하고 있습니다.
+- 상당수의 직원이 오픈 소스 프로젝트에 코드를 기여하고 있습니다.
+- 오픈 소스 소비와 참여를 간소화하고 촉진하기 위한 프로세스, 절차 및 도구가 마련되어 있습니다.
+- 자세한 내용은 TODO 그룹에서 주최하는 OSPO의 특징을 참조하세요.
 
-## 📈 Career Path Progression
-Courses are based on the different OSPO responsibilities established on the OSPO Mind Map. It provides key requirements that OSPO Teams or open source professionals should learn for quality implementation of an Open Source Program Office:
+## 📈 커리어 패스 진행
 
-|  | Description |
-| --- | --- |
-| ✅ | Courses that already exist (either at TODO or other OS communities) |
-| 🆕 | New Courses to be made |
-| 🤝 | Courses provided by other OS Communities |
+과정은 OSPO 마인드맵에 설정된 다양한 OSPO 책임을 기반으로 합니다. 이 과정은 오픈 소스 프로그램 오피스의 품질 구현을 위해 OSPO 팀 또는 오픈 소스 전문가가 배워야 할 주요 요구사항을 제공합니다:
 
-### Beginner Courses ⭐️
+|     | 설명                                               |
+| --- | -------------------------------------------------- |
+| ✅  | 이미 존재하는 코스(TODO 또는 다른 OS 커뮤니티에서) |
+| 🆕  | 새로 만들 코스                                     |
+| 🤝  | 다른 OS 커뮤니티에서 제공하는 코스                 |
 
-* ✅ OSPO 101 Course (beginner) - TODO
-* ✅ 🤝 Introduction to OS license and compliance course (beginner) - OpenChain
-* ✅ 🤝 Developing Secure Software (beginner) - OpenSSF
-* ✅ 🤝 Software Package Data Exchange (beginner) - SPDX
+### 입문 코스 ⭐️
 
-### Intermediate Courses ⭐️⭐️
+- ✅ OSPO 101 코스 (초급) - TODO
+- ✅ 🤝 OS 라이선스 및 컴플라이언스 소개 과정(초급) - OpenChain
+- ✅ 🤝 보안 소프트웨어 개발(초급) - OpenSSF
+- ✅ 🤝 소프트웨어 패키지 데이터 교환 (초급) - SPDX
 
-Continuation fo OSPO 101 modules:
+### 중급 과정 ⭐️⭐️
 
-* [🆕 Course] Effective OSPO policy & processes implementation for **Users**
-* [🆕 Course] Effective OSPO policy & processes implementation for **Contributors**
-* [🆕 Course] Effective OSPO policy & processes implementation for **Partners**
+OSPO 101 모듈의 연속:
 
-### Advanced Courses ⭐️⭐️⭐️
+- [🆕 과정] **사용자**를 위한 효과적인 OSPO 정책 및 프로세스 구현
+- [🆕 과정] **기여자**를 위한 효과적인 OSPO 정책 및 프로세스 구현 과정
+- [🆕 과정] **파트너**를 위한 효과적인 OSPO 정책 및 프로세스 구현
+
+### 고급 과정 ⭐️⭐️⭐️
 
 TBT
 
+## 🙋‍♀️ 기여
 
-## 🙋‍♀️ Contribute
+이 리포지토리에 새 이슈나 PR을 개설하여 OSPO 커리어 패스 콘텐츠를 개선하는 데 도움을 주세요!
 
-Please open a new issue or PR to contribute to this repo adn help us improve the OSPO Career Path content!
+## 👩‍⚖️ 라이선스
 
-## 👩‍⚖️ License
-
-All code is offered under the Apache 2.0 and documentation is offered under the Creative Commons Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0/
+모든 코드는 Apache 2.0에 따라 제공되며 문서는 크리에이티브 커먼즈 저작자표시 4.0 국제 라이선스(http://creativecommons.org/licenses/by/4.0/)에 따라 제공됩니다.

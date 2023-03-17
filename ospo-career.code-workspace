@@ -1,10 +1,32 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../ospo-career-path"
-		}
-	]
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../ospo-career-path"
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#4078ef",
+      "activityBar.background": "#4078ef",
+      "activityBar.foreground": "#e7e7e7",
+      "activityBar.inactiveForeground": "#e7e7e799",
+      "activityBarBadge.background": "#f8a7c1",
+      "activityBarBadge.foreground": "#15202b",
+      "commandCenter.border": "#e7e7e799",
+      "sash.hoverBorder": "#4078ef",
+      "statusBar.background": "#1358e9",
+      "statusBar.foreground": "#e7e7e7",
+      "statusBarItem.hoverBackground": "#4078ef",
+      "statusBarItem.remoteBackground": "#1358e9",
+      "statusBarItem.remoteForeground": "#e7e7e7",
+      "titleBar.activeBackground": "#1358e9",
+      "titleBar.activeForeground": "#e7e7e7",
+      "titleBar.inactiveBackground": "#1358e999",
+      "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#1358e9"
+  }
 }
